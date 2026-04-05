@@ -1,4 +1,4 @@
-# Customer Value Segmentation Dashboard – Power BI + BigQuery + SQL
+# Customer Value Segmentation Dashboard  Power BI + BigQuery 
 
 ## Overview
 
