@@ -36,7 +36,8 @@ The dashboard provides a clear view of customer value distribution and supports 
 - Power BI dashboard screenshot
 - Data files used for analysis
 
+## Notes
 This dashboard was created as a personal learning and portfolio project. The segmentation logic and thresholds are designed for demonstration purposes and may vary in real business scenarios.
 
-##Author
+## Author
 Rizwan Iftikhar
